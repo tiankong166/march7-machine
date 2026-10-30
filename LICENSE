@@ -1,0 +1,44 @@
+MIT License
+
+Copyright (c) 2026 鲸鱼娘
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---------------------------------------------------------------------------
+关于游戏素材（重要）
+
+上面这份 MIT 只覆盖**代码**。
+
+仓库里 emotes/ 下的表情图、以及脚本内嵌的头像与光锥插画，素材版权归
+miHoYo / HoYoverse（米哈游）所有，取自其公开的官方角色资料与游戏内表情。
+这里仅作为玩家二创、非商业用途分享，与米哈游没有任何隶属或授权关系。
+
+- 不用于任何商业用途，不售卖。
+- 收到权利人要求会立即删除相关素材。
+- 如果你要再分发，请一并保留这段说明。
+
+About game assets (important)
+
+The MIT license above covers the CODE ONLY.
+
+Emote images under emotes/, plus the character avatars and Light Cone
+illustrations embedded in the script, are the property of miHoYo / HoYoverse.
+They are included here for non-commercial fan use only. This project is not
+affiliated with or endorsed by miHoYo. Assets will be removed upon request
+from the rights holder.
